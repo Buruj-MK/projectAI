@@ -1,0 +1,4 @@
+0596640747 yes yes yes yes yes yes yes yes
+05989898989 no no no no no no no no
+0596640747 no yes no yes no yes yes yes
+0596640747 yes yes yes no no no no no
